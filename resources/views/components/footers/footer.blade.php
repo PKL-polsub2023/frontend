@@ -31,58 +31,29 @@
 
             </div>
             <div class="col-6 text-end">
-                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
-                    Service
-                </h1>
-                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
-                    Kepemanduan
-                </h1>
-                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
-                    Event
-                </h1>
-                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
-                    Lowongan Kerja
-                </h1>
-                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
-                    Iklan
-                </h1>
+                <div class="row">
+                    <div class="col col-md-6">
+                        <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
+                            Lowongan Kerja
+                        </h1>
+                    </div>
+                    <div class="col col-md-6">
+                        <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
+                            Kepemudaan
+                        </h1>
+                    </div>
+                    <div class="col col-md-6"> <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
+                        Iklan
+                    </h1></div>
+                    <div class="col col-md-6">
+                        <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
+                            Event
+                        </h1>
+                    </div>
+                </div>
+ 
             </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-6">
-            <div class="row">
-                <div class="col-4">
-                    <h1 class="text-start mr-20 ml-4"
-                        style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Terms & Conditions
-                    </h1>
-                </div>
-                <div class="col-3">
-                    <h1 class="text-start mr-7 ml-4"
-                        style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Privacy Policy
-                    </h1>
-                </div>
-            </div>
-        </div>
-        <div class="col-6">
-            <div class="row">
-                <div class="col-7"></div>
-                <div class="col-1">
-                    <div class="profile-img" style="height: 20px; width:20px;">
-                        <img src="{{ asset('assets/img/icons/facebooks.png') }}" alt="profile-img" width="100%" />
-                    </div>
-                </div>
-                <div class="col-1">
-                    <div class="profile-img" style="height: 20px; width:20px;">
-                        <img src="{{ asset('assets/img/icons/tweeter.png') }}" alt="profile-img" width="100%" />
-                    </div>
-                </div>
-                <div class="col-1">
-                    <div class="profile-img" style="height: 20px; width:20px;">
-                        <img src="{{ asset('assets/img/icons/instagram.png') }}" alt="profile-img" width="100%" />
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
 </footer>
