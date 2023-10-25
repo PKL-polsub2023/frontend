@@ -3,15 +3,16 @@
         <div class="row">
             <div class="col-4"></div>
             <div class="col-4">
-                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: bold;">
+                <h1 class="text-start mt-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight ;">
                     Siap untuk menjadi Jawara muda Subang ?
                 </h1>
             </div>
             <div class="col-2">
-                <div class="text-start mx-4 mb-5">
+                <div class="text-start mt-4 mb-3">
                     <a class="btn text-start align-items-center" href="#"
                         style="background-color: #4C6FFF; text-align: center;">
-                        <i class="text-white" style="text-transform: none; font-style: normal;">Daftar<i></i></i>
+                        <i class="text-white mx-4 mb-3 "
+                            style="text-transform: none; font-style: normal;">Daftar<i></i></i>
                     </a>
                 </div>
             </div>
@@ -30,38 +31,38 @@
 
             </div>
             <div class="col-6 text-end">
-                <h1 class="text-start mx-4 mb-4"
-                style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Service
-            </h1>
-            <h1 class="text-start mx-4 mb-4"
-                style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Kepemanduan
-            </h1>
-            <h1 class="text-start mx-4 mb-4"
-                style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Event
-            </h1>
-            <h1 class="text-start mx-4 mb-4"
-                style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Lowongan Kerja
-            </h1>
-            <h1 class="text-start mx-4 mb-4"
-            style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Iklan
-        </h1>
+                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
+                    Service
+                </h1>
+                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
+                    Kepemanduan
+                </h1>
+                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
+                    Event
+                </h1>
+                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
+                    Lowongan Kerja
+                </h1>
+                <h1 class="text-start mx-4 mb-4" style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">
+                    Iklan
+                </h1>
             </div>
         </div>
     </div>
     <div class="row">
         <div class="col-6">
             <div class="row">
-            <div class="col-4">
-                <h1 class="text-start mx-4 mb-4"
-                style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Terms & Conditions
-            </h1>
+                <div class="col-4">
+                    <h1 class="text-start mr-20 ml-4"
+                        style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Terms & Conditions
+                    </h1>
+                </div>
+                <div class="col-3">
+                    <h1 class="text-start mr-7 ml-4"
+                        style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Privacy Policy
+                    </h1>
+                </div>
             </div>
-            <div class="col-3">
-                <h1 class="text-start mx-4 mb-4"
-            style="color: rgb(255, 255, 255); font-size: 18px; font-weight: 100;">Privacy Policy
-        </h1>
-            </div>
-        </div>
         </div>
         <div class="col-6">
             <div class="row">

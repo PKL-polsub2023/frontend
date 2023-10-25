@@ -9,8 +9,8 @@
         <div class="profile-img" style="display: flex; height: 400px; margin: 0; position: relative;">
             <img src="{{ asset('assets/img/foto_2.png') }}" alt="profile-img" width="100%" style="opacity: 0.9;" />
             <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-                <h1 style="color: white; font-size: 38px; ">SELAMAT DATANG DI SIKAPMU</h1>
-                <h1 style="color: white; font-size: 24px; font-weight: 100;">Sistem Informasi Kepemudaan</h1>
+                <h1 style="color: white; font-size: 38px; ">SELAMAT DATANG DI SILAPEM</h1>
+                <h1 style="color: white; font-size: 24px; font-weight: 100;">Sistem Informasi Layanan Kepemudaan</h1>
             </div>
         </div>
         <h1 class="text-center mt-5 mb-5" style="color: rgb(78, 78, 78); font-size: 22px; ">Supported By :</h1>
@@ -20,7 +20,7 @@
         </div>
 
 
-        <div class="container text-start"  style="max-width: 800px">
+        <div class="container text-start" style="max-width: 800px">
             <h1 class="text-start mb-2" style="color: rgb(0, 0, 0); font-size: 18px; font-weight:bold; ">Deskripsi :
             </h1>
 

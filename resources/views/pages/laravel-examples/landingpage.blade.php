@@ -7,20 +7,23 @@
     <main class="main-content position-relative max-height-vh-100 h-100 border-radius-lg ">
         <x-navbars.navs.navland titlePage="Landing"></x-navbars.navs.navland>
         <div class="profile-img" style="display: flex; height: 400px; margin: 0; position: relative;">
-            <img src="{{ asset('assets/img/foto_1.png') }}" alt="profile-img" width="100%" style="opacity: 0.9;" />
+            <img src="{{ asset('assets/img/foto_1.JPG') }}" alt="profile-img" width="100%" height="150%"
+                style="opacity: 0.9;" />
             <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-                <h1 style="color: white; font-size: 38px; ">SELAMAT DATANG DI SIKAPMU</h1>
-                <h1 style="color: white; font-size: 24px; font-weight: 100;">Sistem Informasi Kepemudaan</h1>
+                <h1 style="color: white; font-size: 38px;  ">SELAMAT DATANG DI SILAPEM</h1>
+                <h1 style="color: white; font-size: 24px; font-weight: 100;">Sistem Informasi Pelayanan Kepemudaan </h1>
             </div>
         </div>
-        <h1 class="text-center mt-5 mb-5" style="color: rgb(78, 78, 78); font-size: 22px; ">Supported By :</h1>
+        <h1 class="text-center mt-12 mb-0" style="color: rgb(78, 78, 78); font-size: 22px; ">Supported By :
+        </h1>
 
         <div class="supp text-center mb-5">
             <img src="{{ asset('assets/img/supported.png') }}" alt="profile-img" class="text-center" />
         </div>
-        <h1 class="text-start mx-5 mt-3 mb-5" style="color: rgb(0, 0, 0); font-size: 22px; font-weight: bold;">Evaluasi
+        <h1 class="text-center mx-5 mt-6 mb-6" style="color: rgb(0, 0, 0); font-size: 25px; font-weight: bold;">
+            Evaluasi
             Data
-            Kependudukan :
+            Kependudukan
         </h1>
         <div class="container">
             <div class="row mb-5 mx-5">
@@ -262,9 +265,11 @@
         </div>
 
         <div class="card mt-3 mb-5 mx-5" style="border-radius: 10px; ">
-            <div class="row mx-4 my-4">
-                <div class="col-5">
-                    <h1 style="color: rgb(12, 12, 12); font-size: 28px; font-weight: 100;"> Jadilah Jawara Muda Subang
+            <div class="row mx-8 my-3">
+                <div class="col-5 text center">
+                    <h1
+                        style="color: rgb(12, 12, 12); font-size: 28px; font-weight: 100; font-family:Georgia, 'Times New Roman', Times, serif">
+                        Jadilah Jawara Muda Subang
                     </h1>
                 </div>
                 <div class="col-1 text-center">
@@ -272,7 +277,9 @@
                     </h1>
                 </div>
                 <div class="col-6">
-                    <h1 style="color: rgb(12, 12, 12); font-size: 28px; font-weight: 100;">Jumlah Jawara Muda Subang :
+                    <h1
+                        style="color: rgb(12, 12, 12); font-size: 28px; font-weight: 100; font-family:Georgia, 'Times New Roman', Times, serif">
+                        Jumlah Jawara Muda Subang :
                         3000 Terdaftar
                     </h1>
                 </div>
@@ -280,7 +287,7 @@
 
         </div>
 
-        <h1 class="text-start mx-5 mt-3 mb-5" style="color: rgb(0, 0, 0); font-size: 22px; font-weight: bold; ">
+        <h1 class="text-center mx-5 mt-3 mb-5" style="color: rgb(0, 0, 0); font-size: 28px; font-weight: bold; ">
             Lowongan Kerja
         </h1>
         <div class="container mt-3 position: relative;">
@@ -489,7 +496,7 @@
             </div>
         </div>
 
-        <h1 class="text-start mx-5 mt-3 mb-5" style="color: rgb(0, 0, 0); font-size: 22px; font-weight: bold; ">
+        <h1 class="text-center mx-5 mt-3 mb-5" style="color: rgb(0, 0, 0); font-size: 28px; font-weight: bold; ">
             Event
         </h1>
         <div class="container mt-3 position: relative;">
@@ -626,7 +633,7 @@
             </div>
         </div>
 
-        <h1 class="text-start mx-5 mt-3 mb-5" style="color: rgb(0, 0, 0); font-size: 22px; font-weight: bold; ">
+        <h1 class="text-center mx-5 mt-6 mb-5" style="color: rgb(0, 0, 0); font-size: 30px; font-weight: bold; ">
             Berita
         </h1>
         <div class="container mt-3 position: relative; mb-5">

@@ -9,8 +9,8 @@
         <div class="profile-img" style="display: flex; height: 400px; margin: 0; position: relative;">
             <img src="{{ asset('assets/img/foto_4.png') }}" alt="profile-img" width="100%" style="opacity: 0.9;" />
             <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-                <h1 style="color: white; font-size: 38px; ">SELAMAT DATANG DI SIKAPMU</h1>
-                <h1 style="color: white; font-size: 24px; font-weight: 100;">Sistem Informasi Kepemudaan</h1>
+                <h1 style="color: white; font-size: 38px; ">SELAMAT DATANG DI SILAPEM</h1>
+                <h1 style="color: white; font-size: 24px; font-weight: 100;">Sistem Informasi Layanana Kepemudaan</h1>
             </div>
         </div>
         <h1 class="text-center mt-5 mb-5" style="color: rgb(78, 78, 78); font-size: 22px; ">Supported By :</h1>
@@ -21,10 +21,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-8">
-                    <h1 class="text-start mb-2" style="color: rgb(0, 0, 0); font-size: 18px; font-weight:bold; ">Deskripsi :</h1>
+                    <h1 class="text-start mb-2" style="color: rgb(0, 0, 0); font-size: 18px; font-weight:bold; ">
+                        Deskripsi :</h1>
 
-            <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">Memahami Troubleshoting pada Komputer dan
-                Dapat Melakukan Maintenance </h1>
+                    <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">Memahami Troubleshoting pada
+                        Komputer dan
+                        Dapat Melakukan Maintenance </h1>
 
                 </div>
                 <div class="col-1"></div>
@@ -32,30 +34,41 @@
                     <div class="text-start mx-1 mb-1">
                         <a class="btn text-start align-items-center" href="#"
                             style="background-color: #4C6FFF; text-align: center;">
-                            <i class="text-white py-5 px-5" style="text-transform: none; font-style: normal;">Apply Lamaran
-                                    </i>
+                            <i class="text-white py-5 px-5" style="text-transform: none; font-style: normal;">Apply
+                                Lamaran
+                            </i>
                         </a>
                     </div>
                 </div>
             </div>
             <div class="container text-start">
-            <h1 class="text-start mt-5 mb-2" style="color: rgb(0, 0, 0); font-size: 18px; font-weight:bold; ">Persyaratan : </h1>
+                <h1 class="text-start mt-5 mb-2" style="color: rgb(0, 0, 0); font-size: 18px; font-weight:bold; ">
+                    Persyaratan : </h1>
 
-            <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Bachelor's Degree in all majors</h1>
-            <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Get used to work based on target and incentive</h1>
-            <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Minimal 2-year experience in a similar position</h1>
-            <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Proficient in Microsoft Office and Excel</h1>
-            <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Have good communication skills</h1>
-            <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Have a good analytical skill</h1>
-            <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Have a private vehicle and License</h1>
-            <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Placement in Subang</h1>
+                <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Bachelor's Degree in all majors
+                </h1>
+                <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Get used to work based on
+                    target and incentive</h1>
+                <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Minimal 2-year experience in a
+                    similar position</h1>
+                <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Proficient in Microsoft Office
+                    and Excel</h1>
+                <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Have good communication skills
+                </h1>
+                <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Have a good analytical skill
+                </h1>
+                <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Have a private vehicle and
+                    License</h1>
+                <h1 class="text-start " style="color: rgb(0, 0, 0); font-size: 18px; ">° Placement in Subang</h1>
 
 
-            <h1 class="text-start mt-5 mb-2" style="color: rgb(0, 0, 0); font-size: 18px; font-weight:bold; ">Alamat : </h1>
+                <h1 class="text-start mt-5 mb-2" style="color: rgb(0, 0, 0); font-size: 18px; font-weight:bold; ">Alamat
+                    : </h1>
 
-            <h1 class="text-start  mb-5" style="color: rgb(0, 0, 0); font-size: 18px; ">Jl. Jend. Achmad Yani No.11, Pasirkareumbi, Kec. Subang, Kabupaten Subang, Jawa Barat 41211</h1>
+                <h1 class="text-start  mb-5" style="color: rgb(0, 0, 0); font-size: 18px; ">Jl. Jend. Achmad Yani No.11,
+                    Pasirkareumbi, Kec. Subang, Kabupaten Subang, Jawa Barat 41211</h1>
+            </div>
         </div>
-    </div>
 
 
 
